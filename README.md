@@ -5,8 +5,13 @@ Projeto feito com NODEJS(EXPRESS), MONGODB ATLAS, Utilizado para gerenciamento u
 Utilizamos nesse Projeto:
 
 MongoDB
+
 Node.js
+
 Express
+
 Mongoose
+
 Bcrypt.js
+
 JsonWebToken
