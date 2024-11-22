@@ -4,7 +4,6 @@ const authenticateMiddleware = require("../middlewares/authenticate");
 
 const app = express();
 
-// Middleware to parse JSON bodies
 app.use(express.json());
 
 // Criar uma nova categoria
